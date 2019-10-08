@@ -1,4 +1,5 @@
 // BUDGET CONTROLLER
+// the delete button is now showing up and is functional
 var budgetController = (function() {
     
     var Expense = function(id, description, value) {
